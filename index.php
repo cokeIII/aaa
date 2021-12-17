@@ -16,14 +16,7 @@
 </style>
 
 <body>
-    <div class="row">
-        <div class="col-md-6 bg-danger height-box"></div>
-        <div class="col-md-6 bg-info height-box"></div>
-    </div>
-    <div class="row">
-        <div class="col-md-6 bg-primary height-box"></div>
-        <div class="col-md-6 bg-warning height-box"></div>
-    </div>
+
 </body>
 
 </html>
